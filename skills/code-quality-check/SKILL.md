@@ -1,6 +1,6 @@
 ---
 name: code-analyzer
-description: MANDATORY: Use this for EVERY code change, file creation, or refactor. This skill MUST analyze code quality and append a 50-100 word Quality Report to the final response.
+description: MANDATORY. Use this for EVERY code change, file creation, or refactor. This skill MUST analyze code quality and append a 50-100 word Quality Report to the final response.
 ---
 
 # Code Quality Analyzer
@@ -26,4 +26,5 @@ This section must be a cohesive paragraph of 50-100 words covering:
 **Example Format:**
 > ### 🛡️ Code Quality Analysis
 > [Your 50-100 word analysis goes here...]
+
 
